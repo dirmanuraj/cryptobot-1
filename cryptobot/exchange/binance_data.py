@@ -13,7 +13,7 @@ from config import CONFIG
 
 log = logging.getLogger(__name__)
 
-BINANCE_BASE = "https://api.binance.com"
+BINANCE_BASE = "https://data-api.binance.vision"
 
 
 class BinanceData:
